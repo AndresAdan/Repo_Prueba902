@@ -1,0 +1,6 @@
+Esto es un archivo de prueba para viajar en el tiempo en el proyecto de primerparcialCRUD
+Linea numero 2
+Linea numero 3 para prueba de primerparcialCRUD
+Linea 4 para proyecto primerparcialCRUD
+Linea 5
+--------Esto una practica para hacer el fast forward--------
